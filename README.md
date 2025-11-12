@@ -1,5 +1,7 @@
 ## Hi there 👋
 # Wabby Wabbo 
+# Shinzō o sasageyo!
+<img width="1698" height="1692" alt="image" src="https://github.com/user-attachments/assets/c01a26a2-0a1f-4dd1-9eac-2515c7321b98" />
 <!--
 **ZiJie-Duan/ZiJie-Duan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
